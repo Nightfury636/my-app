@@ -1,8 +1,8 @@
 // src/App.tsx
 
 import React from 'react';
-import PostForm from './PostForm';
-import './PostForm.css';
+import PostForm from './servis/PostForm';
+import './servis/PostForm.css';
 
 const App: React.FC = () => {
   return (
