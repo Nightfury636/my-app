@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
-import Users from './pages/users';
-import Posts from './pages/posts';
-import Comments from './pages/comments';
+import Users from './pages/Users';
+import Posts from './pages/Posts';
+import Comments from './pages/Comments';
 import UserPosts from './pages/UserPosts';
 
 const App: React.FC = () => {
